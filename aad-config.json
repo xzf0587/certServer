@@ -1,0 +1,5 @@
+{
+    "aadClientId": "ff8a9d81-bf6e-4303-bf80-988d43dae0fa",
+    "aadMetadata": "https://login.microsoftonline.com/common/v2.0/.well-known/openid-configuration",
+    "aadRole": "ReadWrite.All"
+}

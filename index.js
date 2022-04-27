@@ -1,5 +1,3 @@
-// import * as https from "https";
-// import * as fs from "fs-extra";
 const https = require("https");
 const fs = require("fs-extra")
 const serverCertAuthConfig = {

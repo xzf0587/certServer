@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/xzf0587/certServer#readme",
   "dependencies": {
-    "fs-extra": "^10.1.0"
+    "fs-extra": "^10.1.0",
+    "express": "^4.17.3",
+    "passport": "^0.5.2",
+    "passport-azure-ad": "^4.3.1"
   }
 }
